@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="24px" viewBox="0 0 101 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>whiteboard_arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Whiteboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Whiteboard_6" transform="translate(-744.000000, -662.000000)" fill="#5D9CEC">
+            <g id="Group-29" transform="translate(740.000000, 628.000000)">
+                <path d="M89.0769231,43 L5.2722683,43 C4.57472229,43 4,43.5696933 4,44.2724457 L4,47.7275543 C4,48.4246948 4.56961392,49 5.2722683,49 L89.0769231,49 L86.8168845,56.3451255 C86.7292341,56.6299891 86.7732161,56.9391028 86.9368426,57.1882136 C87.2400483,57.6498247 87.8600547,57.7782378 88.3216658,57.4750322 L104.223898,47.0297764 C104.289753,46.98652 104.346983,46.9313853 104.392664,46.8671885 C104.595992,46.5814461 104.529182,46.1849761 104.24344,45.9816479 L88.4028393,34.7098099 C88.1493462,34.5294295 87.8263388,34.47731 87.5289765,34.5688061 C87.0011144,34.7312252 86.7048642,35.2908088 86.8672834,35.818671 L89.0769231,43 L89.0769231,43 Z" id="whiteboard_arrow"></path>
+            </g>
+        </g>
+    </g>
+</svg>

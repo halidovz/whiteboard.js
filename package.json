@@ -1,0 +1,12 @@
+{
+  "name": "whiteboardjs",
+  "version": "1.0.4",
+  "description": "Simple whiteboard on Fabric.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "fabric": "^2.0.1",
+    "rxjs": "^5.5.6"
+  },
+  "devDependencies": {}
+}
